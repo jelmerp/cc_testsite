@@ -1,0 +1,14 @@
+{
+  "hash": "dc5e53793ed1ed1045a98ec9d0e1283d",
+  "result": {
+    "markdown": "---\ntitle: \"Welcome to Lucy's website\"\n---\n\n\nThis is a Quarto website.as\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

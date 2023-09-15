@@ -1,0 +1,16 @@
+---
+title: "My Research"
+subtitle: "This page talks about my ongoing and past research projects"
+date: 2023-09-11
+author: "Lucy T. Hedgehog"
+editor: visual
+number-sections: true
+---
+
+## Ongoing Projects
+
+### Project 1: hedgehog signaling
+
+### Project 2: ...
+
+## Past Projects

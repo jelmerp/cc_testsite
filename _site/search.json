@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my personal website."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Lucy’s website",
+    "section": "",
+    "text": "a"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "My Research",
+    "section": "",
+    "text": "This projects focuses on the effects of …."
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "My Research",
+    "section": "",
+    "text": "This projects focuses on the effects of …."
+  },
+  {
+    "objectID": "research.html#past-projects",
+    "href": "research.html#past-projects",
+    "title": "My Research",
+    "section": "2 Past Projects",
+    "text": "2 Past Projects"
+  }
+]
